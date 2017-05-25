@@ -2,7 +2,7 @@ title: Buy me a coffee
 description: Buy me a ☕️  if you like my projects :)
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-modernist
+theme: jekyll-theme-tactile
 
 gems:
   - jekyll-mentions
